@@ -1,1 +1,1 @@
-# pythonYouTubeTranslateVoice
+python Автоматически переключает субтитры на Русский язык и читает в слух с помощью Yandex Speach API
